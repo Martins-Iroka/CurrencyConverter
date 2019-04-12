@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="to">to</string>
+    <string name="conversion_result">Conversion Result</string>
+    <string name="convert_button">Convert</string>
+    <string-array name="currencies">
+        <item>AUD</item>
+        <item>BTC</item>
+        <item>CAD</item>
+        <item>ETH</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>USD</item>
+    </string-array>
+</resources>
